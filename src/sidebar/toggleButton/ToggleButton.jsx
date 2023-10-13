@@ -14,7 +14,6 @@ export const ToggleButton = ( { setOpen } ) => {
         }}
       />
       <motion.path
-         d="M 2 9.423 L 20 9.423"
         stroke="black"
         strokeWidth="3"
         strokeLinecap="round"
